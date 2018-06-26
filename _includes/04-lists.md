@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* Learning GitHub from Labs
+* Learning Markdown from Labs
